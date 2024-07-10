@@ -66,6 +66,20 @@ The AI-Based Fire Detection Alarm System uses a machine learning model to detect
 - `templates/`: Directory containing HTML templates.
 - `model/`: Directory for the machine learning model and related files.
 
+/project-directory
+├── app.py                   # Flask application file
+├── templates                # HTML templates directory
+│   └── index.html           # Main HTML template
+└── static                   # Static assets directory
+    ├── images.jpg           # Background image for the web page
+    ├── linkedin.png         # LinkedIn logo (example)
+    ├── 1.jpg           # GitHub logo (example)
+    ├── 2.png          # Twitter logo (example)
+    └── 3.jpg          # Instagram logo (example)
+
+
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
