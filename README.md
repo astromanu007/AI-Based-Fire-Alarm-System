@@ -83,10 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Created by Manish Dhatrak
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/your-github-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Instagram](https://www.instagram.com/your-instagram-profile)
-
-Feel free to reach out for any questions or collaboration opportunities!
